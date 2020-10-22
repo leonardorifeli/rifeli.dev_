@@ -2,15 +2,14 @@
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
 - elements
-star: true
 category: blog
 author: johndoe
 description: Markdown summary with different options
+mdpage: false
 ---
 
 ## Basic formatting
@@ -141,8 +140,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]{: class="bigger-image" }
 {% endhighlight %}
 
-![Markdowm Image][5]{: class="bigger-image" }
-
+![Markdowm Imagetest](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3482dd4-08ca-47b8-a81e-1fbd22b52cce/WhatsApp_Image_2020-05-07_at_3.05.11_PM.jpeg){: class="bigger-image" }
 ---
 
 ## Code
