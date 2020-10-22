@@ -1,46 +1,24 @@
 ---
 title: About
-layout: page
+layout: post
+mdpage: true
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I have more than 10 years old of experience in software developer. Studies Data Science at uninter.com university.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I'm co-founded the startup called Reviewr, eligible as one of the most promises in Santa Catarina (BR), incubated at MIDITEC, the 5th best startups incubator in the world and accelerated by Darwin Startups.
 
-<h2>Skills</h2>
+My specialy is data extraction and processing. The project that I'm most proud of having accomplished was been built a fully serverless webscraping application (with a proxy layer), collecting and processing many reviews every day. I'm Running on top of AWS using basically Lambda, StepFunction, Elastic MapReduce (with spark job), EKS + EC2 (to scheduler system) and API Gateway.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+My main tech stacks is: Javascript (with Node.js), golang and scala, but I also have some experience with Python.
 
-<h2>Projects</h2>
+I'm also a serverless and golang enthusiast.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Everyday routine includes:
+
+- Software Architecture & Development;
+- Data Architecture;
+- Data Scraping;
+- Architecture Decision;
+- Problem Solving;
+- DevOps.
