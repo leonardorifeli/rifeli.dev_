@@ -8,6 +8,14 @@ Some talks I gave over the years, just in case you want to see the slides.
 
 ## 2020
 
+[Serverless Podcast](https://anchor.fm/semservidor/episodes/Episdio-3---Serverless-na-Harmo-egknu5)
+
+**Jul 14, 2020**
+
+Shared the Harmo Serverless architecture case. The slides are in portuguese.
+
+[See podcast](https://speakerdeck.com/leonardorifeli/reviewr-data-consolidation-case)
+
 [Data Science - FIAP on Darwin Startups](https://www.fiap.com.br/shift/curso/workshops/data-science-dos-fundamentos-as-aplicacoes)
 
 **Jan 31, 2020**
