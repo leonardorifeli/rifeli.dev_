@@ -24,3 +24,8 @@ Everyday routine includes:
 - Architecture Decision;
 - Problem Solving;
 - SRE & DevOps.
+
+# Projects
+
+- Co-founded & developed at [harmo.me](https://harmo.me)
+- Technology Developer & Consultant at [aiboo.app](https://aiboo.app/)
