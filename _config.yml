@@ -1,6 +1,6 @@
 # main text of home
-name: Leonardo Rifeli
-bio: I'm a brazilian 🇧🇷 Data Engineering. Co-founder & CTO at <a href="https://harmo.me" target="_blank">Harmo</a>.
+name: Leonardo Rifeli>
+bio: I'm a brazilian 🇧🇷 Data Engineering. <br> Co-founder & CTO at <a href="https://harmo.me" target="_blank">Harmo</a>. <br> Technology Developer & Consultant.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,13 +16,13 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://rifeli.com
+url: https://rifeli.dev
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-57154869-2'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: leonardorifeli
-twitter: leonardorifeli
-instagram: leonardorifeli
+# facebook: leonardorifeli
+# twitter: leonardorifeli
+instagram: leonardo.rifeli
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: leonardorifeli
 # youtube: myyoutube
 # spotify: myspotify
 github: leonardorifeli
-# gitlab: mygitlab
+# gitlab: leonardorifeli
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: leonardorifeli
+# medium: leonardorifeli
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: leonardorifeli@gmail.com
+email: leonardo@rifeli.dev
 
 authors:
   leonardorifeli:
@@ -63,14 +63,14 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
+  per_page: 20
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below

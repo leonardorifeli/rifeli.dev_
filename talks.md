@@ -6,6 +6,16 @@ mdpage: true
 
 Some talks I gave over the years, just in case you want to see the slides.
 
+## 2021
+
+[LIVE: Gerando dados com Serverless](https://www.youtube.com/watch?v=vM0l-d50jLI&ab_channel=DanielCastro)
+
+**Nov 17, 2021**
+
+Shared the Harmo Serverless architecture case. The slides are in portuguese.
+
+[See podcast](https://www.youtube.com/watch?v=vM0l-d50jLI&ab_channel=DanielCastro)
+
 ## 2020
 
 [Serverless Podcast](https://anchor.fm/semservidor/episodes/Episdio-3---Serverless-na-Harmo-egknu5)
