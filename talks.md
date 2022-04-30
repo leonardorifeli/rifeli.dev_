@@ -6,6 +6,16 @@ mdpage: true
 
 Some talks I gave over the years, just in case you want to see the slides.
 
+## 2022
+
+[Acate: Processamento distribuído - Como processamos milhões de dados diariamente](https://speakerdeck.com/leonardorifeli/harmo-talk-processamento-distribuido-como-processamos-milhoes-de-dados-diariamente)
+
+**Mar 29, 2022**
+
+Shared the Harmo Consolidation case (using Spark & Hadoop provided by EMR). The slides are in portuguese.
+
+[See slides](https://speakerdeck.com/leonardorifeli/harmo-talk-processamento-distribuido-como-processamos-milhoes-de-dados-diariamente)
+
 ## 2021
 
 [LIVE: Gerando dados com Serverless](https://www.youtube.com/watch?v=vM0l-d50jLI&ab_channel=DanielCastro)
