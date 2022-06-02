@@ -8,6 +8,14 @@ Some talks I gave over the years, just in case you want to see the slides.
 
 ## 2022
 
+[TDC22 - How to collect large scale data using Javascript](https://speakerdeck.com/leonardorifeli/how-to-collect-large-scale-data-using-javascript)
+
+**Jun 01, 2022**
+
+Shared the Harmo Collector case (using Javascript & Lambdas). The slides are in English.
+
+[See slides](https://speakerdeck.com/leonardorifeli/how-to-collect-large-scale-data-using-javascript)
+
 [Acate: Processamento distribuído - Como processamos milhões de dados diariamente](https://speakerdeck.com/leonardorifeli/harmo-talk-processamento-distribuido-como-processamos-milhoes-de-dados-diariamente)
 
 **Mar 29, 2022**
