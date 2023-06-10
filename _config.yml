@@ -1,6 +1,6 @@
 # main text of home
 name: Leonardo Rifeli
-bio: I'm a brazilian 🇧🇷 Data Engineering. <br> Co-founder & CTO at <a href="https://harmo.me" target="_blank">Harmo</a>. <br> Technology developer & consulting for startups and companies.
+bio: I'm a brazilian 🇧🇷 Data Engineering. <br> Co-founder & CTO at <a href="https://harmo.me" target="_blank">Harmo</a>. <br> Remember that there is no code faster than no code. Gopher since 2017
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: leonardorifeli
 # twitter: leonardorifeli
-instagram: leonardo.rifeli
+instagram: rifeli.dev
 # pinterest: mypinterest
 linkedin: leonardorifeli
 # youtube: myyoutube
@@ -63,7 +63,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
