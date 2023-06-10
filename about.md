@@ -15,9 +15,9 @@ My main tech stacks are Golang, Javascript (with Node.js) & python. I'm Gopher s
 
 My everyday routine includes:
 
-> Team Tech Leader (+10 peoples);
-> Software Architecture & Development;
-> Data Engineering (architecture, extractor, and processor);
-> Architecture Decision;
-> Problem-Solving;
-> SRE & DevOps.
+- Team Tech Leader (+10 peoples);
+- Software Architecture & Development;
+- Data Engineering (architecture, extractor, and processor);
+- Architecture Decision;
+- Problem-Solving;
+- SRE & DevOps.
